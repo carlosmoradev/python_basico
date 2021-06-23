@@ -1,3 +1,15 @@
+menu = """
+Bienvenido al comversor de monedas.
+
+1 - Pesos Colombianos
+2 - Pesos Argentinos
+3 - Pesos Mexicanos
+
+Elige una opcion:
+"""
+
+opcion = input(menu)
+
 numero = int(input('Escribe un numero: '))
 
 if numero > 5:
