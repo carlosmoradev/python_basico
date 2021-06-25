@@ -1,4 +1,4 @@
-# Juego basico para adivinar un numero
+# Juego basico para adivinar un numero.
 import random
 
 
