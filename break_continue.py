@@ -6,6 +6,13 @@ def run():
         if contador == 630:
             break               #finaliza las iteraciones
 
+    
+    texto = input('Escribe un texto:')
+    for letra in texto:
+        if letra == "j":
+            break
+        print(letra)
+
 
 if __name__ == '__main__':
     run()
